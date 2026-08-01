@@ -1,0 +1,14 @@
+NN inference detail
+roi_float_dir = ../../../../roi_resize_mnist/test_result
+boxes_file = ../../../../projection_bbox/test_result/projection_boxes.txt
+
+roi 0 pred 0 input_min=0 input_max=1 input_mean=0.0854592 file ../../../../roi_resize_mnist/test_result/roi_mnist_00_float.txt
+roi 1 pred 3 input_min=0 input_max=1 input_mean=0.0956633 file ../../../../roi_resize_mnist/test_result/roi_mnist_01_float.txt
+roi 2 pred 4 input_min=0 input_max=1 input_mean=0.0510204 file ../../../../roi_resize_mnist/test_result/roi_mnist_02_float.txt
+roi 3 pred 5 input_min=0 input_max=1 input_mean=0.0854592 file ../../../../roi_resize_mnist/test_result/roi_mnist_03_float.txt
+roi 4 pred 1 input_min=0 input_max=1 input_mean=0.0293367 file ../../../../roi_resize_mnist/test_result/roi_mnist_04_float.txt
+roi 5 pred 2 input_min=0 input_max=1 input_mean=0.059949 file ../../../../roi_resize_mnist/test_result/roi_mnist_05_float.txt
+roi 6 pred 6 input_min=0 input_max=1 input_mean=0.0637755 file ../../../../roi_resize_mnist/test_result/roi_mnist_06_float.txt
+roi 7 pred 1 input_min=0 input_max=1 input_mean=0.0561224 file ../../../../roi_resize_mnist/test_result/roi_mnist_07_float.txt
+roi 8 pred 3 input_min=0 input_max=1 input_mean=0.0586735 file ../../../../roi_resize_mnist/test_result/roi_mnist_08_float.txt
+roi 9 pred 7 input_min=0 input_max=1 input_mean=0.0357143 file ../../../../roi_resize_mnist/test_result/roi_mnist_09_float.txt
